@@ -1,35 +1,35 @@
 Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Description,LCSC Part #
-CL05A106MP5NUNC,Part,4,,0.164,,,Grant,,10V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C315248
-CGA0402X7R104K160GT,Part,13,,0.0342,,,Grant,,16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C6119799
-CL05A475MP5NRNC,Part,4,,0.0384,,,Grant,,10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C23733
-CC0402JRNPO9BN150,Part,2,,0.022,,,Grant,,50V 15pF NP0 ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C106997
-XL-1608SURC-06,Part,1,,0.062,,,Grant,,20mA 225mcd Water Clear op View Mount 620nm~630nm Red 120° 50mW 2.3V 0603 LED Indication - Discrete ROHS,C965799
-SK6812MINI-HS,Part,1,,0.4665,,,Grant,,"SMD,3.5x3.7mm RGB LEDs(Built-in IC) ROHS",C2922787
-1N5819WS,Part,1,,0.0192,,,Grant,,40V 600mV@1A 1A SOD-323 Schottky Diodes ROHS,C191023
-TYPE-C-31-M-12,Part,1,,0.3394,,,Grant,,5A 1 16P Female Type-C SMD USB Connectors ROHS,C165948
-BM03B-SRSS-TB(LF)(SN),Part,1,,1.107,,,Grant,,"1x3P 3P SH Tin 3 -25℃~+85℃ 1A 1 1mm Copper Alloy Surface Mount,Vertical SMD,P=1mm Wire To Board Connector ROHS",C160389
-S2B-PH-SM4-TB(LF)(SN),Part,1,,0.9295,,,Grant,,"1x2P 2P PH Tin 2 -25℃~+85℃ 2A 1 2mm Copper Alloy Surface Mount, Right Angle SMD,P=2mm,Surface Mount,Right Angle Wire To Board Connector ROHS",C295747
-TF-01A,Part,1,,0.3372,,,Grant,,1.85mm Connector and Ejector MicroSD Card (TF Card) Push-Push SMD SD Card / Memory Card Connector ROHS,C91145
-BM04B-SRSS-TB(LF)(SN),Part,1,,0.9105,,,Grant,,"1x4P 4P SH Tin 4 -25℃~+85℃ 1A 1 1mm Copper Alloy Surface Mount,Vertical SMD,P=1mm Wire To Board Connector ROHS",C160390
-AOTA-B201610S3R3-101-T,Part,1,,1.368,,,Grant,,0806 Power Inductors ROHS,C42411119
-AO3401A,Part,1,,0.299,,,Grant,,30V 4.2A 120mΩ@2.5V 1.4W 1.3V@250uA 1 P-Channel SOT-23 MOSFETs ROHS,C347476
-0402WGF5101TCE,Part,3,,0.003,,,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS,C25905
-0402WGF1002TCE,Part,3,,0.003,,,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS,C25744
-0402WGF330JTCE,Part,1,,0.001,,,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 33Ω 0402 Chip Resistor - Surface Mount ROHS,C25105
-RC0402FR-0727RL,Part,2,,0.012,,,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 27Ω 0402 Chip Resistor - Surface Mount ROHS,C138021
-FRC0402J102 TS,Part,4,,0.008,,,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±5% 1kΩ 0402 Chip Resistor - Surface Mount ROHS,C2906899
-TS-1088-AR02016,Part,2,,0.1692,,,Grant,,"Without Bracket 50mA 4mm 100,000 Cycles 12V 1.6N 3mm 2mm Round Button Surface Mount,Vertical SPST SMD Tactile Switches ROHS",C720477
-RP2350A,Part,1,,2.133,,,Grant,,QFN-60-EP(7x7) Microcontrollers (MCU/MPU/SOC) ROHS,C42411118
-NCP1117ST33T3G,Part,1,,0.5098,,,Grant,,"62dB@(120Hz) 1A Fixed 3.3V Positive 20V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",C26537
-W25Q128JVSIQ,Part,1,,1.959,,,Grant,,128Mbit SPI 133MHz SOIC-8-208mil NOR FLASH ROHS,C97521
-TP4056-42-ESOP8,Part,1,,0.3438,,,Grant,,4V~8V Lithium-ion/Polymer 1 1A ESOP-8 Battery Management ROHS,C16581
-ABM8-272-T3,Part,1,,2.10,,,Grant,,SMD3225-4P Crystals ROHS,C20625731
+CL05A106MP5NUNC,Part,4,,0.164,https://www.lcsc.com/search?q=C315248,LCSC,Grant,,10V 10uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C315248
+CGA0402X7R104K160GT,Part,13,,0.0342,https://www.lcsc.com/search?q=C6119799,LCSC,Grant,,16V 100nF X7R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C6119799
+CL05A475MP5NRNC,Part,4,,0.0384,https://www.lcsc.com/search?q=C23733,LCSC,Grant,,10V 4.7uF X5R ±20% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C23733
+CC0402JRNPO9BN150,Part,2,,0.022,https://www.lcsc.com/search?q=C106997,LCSC,Grant,,50V 15pF NP0 ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,C106997
+XL-1608SURC-06,Part,1,,0.062,https://www.lcsc.com/search?q=C965799,LCSC,Grant,,20mA 225mcd Water Clear op View Mount 620nm~630nm Red 120° 50mW 2.3V 0603 LED Indication - Discrete ROHS,C965799
+SK6812MINI-HS,Part,1,,0.4665,https://www.lcsc.com/search?q=C2922787,LCSC,Grant,,"SMD,3.5x3.7mm RGB LEDs(Built-in IC) ROHS",C2922787
+1N5819WS,Part,1,,0.0192,https://www.lcsc.com/search?q=C191023,LCSC,Grant,,40V 600mV@1A 1A SOD-323 Schottky Diodes ROHS,C191023
+TYPE-C-31-M-12,Part,1,,0.3394,https://www.lcsc.com/search?q=C165948,LCSC,Grant,,5A 1 16P Female Type-C SMD USB Connectors ROHS,C165948
+BM03B-SRSS-TB(LF)(SN),Part,1,,1.107,https://www.lcsc.com/search?q=C160389,LCSC,Grant,,"1x3P 3P SH Tin 3 -25℃~+85℃ 1A 1 1mm Copper Alloy Surface Mount,Vertical SMD,P=1mm Wire To Board Connector ROHS",C160389
+S2B-PH-SM4-TB(LF)(SN),Part,1,,0.9295,https://www.lcsc.com/search?q=C295747,LCSC,Grant,,"1x2P 2P PH Tin 2 -25℃~+85℃ 2A 1 2mm Copper Alloy Surface Mount, Right Angle SMD,P=2mm,Surface Mount,Right Angle Wire To Board Connector ROHS",C295747
+TF-01A,Part,1,,0.3372,https://www.lcsc.com/search?q=C91145,LCSC,Grant,,1.85mm Connector and Ejector MicroSD Card (TF Card) Push-Push SMD SD Card / Memory Card Connector ROHS,C91145
+BM04B-SRSS-TB(LF)(SN),Part,1,,0.9105,https://www.lcsc.com/search?q=C160390,LCSC,Grant,,"1x4P 4P SH Tin 4 -25℃~+85℃ 1A 1 1mm Copper Alloy Surface Mount,Vertical SMD,P=1mm Wire To Board Connector ROHS",C160390
+AOTA-B201610S3R3-101-T,Part,1,,1.368,https://www.lcsc.com/search?q=C42411119,LCSC,Grant,,0806 Power Inductors ROHS,C42411119
+AO3401A,Part,1,,0.299,https://www.lcsc.com/search?q=C347476,LCSC,Grant,,30V 4.2A 120mΩ@2.5V 1.4W 1.3V@250uA 1 P-Channel SOT-23 MOSFETs ROHS,C347476
+0402WGF5101TCE,Part,3,,0.003,https://www.lcsc.com/search?q=C25905,LCSC,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS,C25905
+0402WGF1002TCE,Part,3,,0.003,https://www.lcsc.com/search?q=C25744,LCSC,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 10kΩ 0402 Chip Resistor - Surface Mount ROHS,C25744
+0402WGF330JTCE,Part,1,,0.001,https://www.lcsc.com/search?q=C25105,LCSC,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 33Ω 0402 Chip Resistor - Surface Mount ROHS,C25105
+RC0402FR-0727RL,Part,2,,0.012,https://www.lcsc.com/search?q=C138021,LCSC,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±1% 27Ω 0402 Chip Resistor - Surface Mount ROHS,C138021
+FRC0402J102 TS,Part,4,,0.008,https://www.lcsc.com/search?q=C2906899,LCSC,Grant,,62.5mW Thick Film Resistor 50V ±100ppm/℃ ±5% 1kΩ 0402 Chip Resistor - Surface Mount ROHS,C2906899
+TS-1088-AR02016,Part,2,,0.1692,https://www.lcsc.com/search?q=C720477,LCSC,Grant,,"Without Bracket 50mA 4mm 100,000 Cycles 12V 1.6N 3mm 2mm Round Button Surface Mount,Vertical SPST SMD Tactile Switches ROHS",C720477
+RP2350A,Part,1,,2.133,https://www.lcsc.com/search?q=C42411118,LCSC,Grant,,QFN-60-EP(7x7) Microcontrollers (MCU/MPU/SOC) ROHS,C42411118
+NCP1117ST33T3G,Part,1,,0.5098,https://www.lcsc.com/search?q=C26537,LCSC,Grant,,"62dB@(120Hz) 1A Fixed 3.3V Positive 20V SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators ROHS",C26537
+W25Q128JVSIQ,Part,1,,1.959,https://www.lcsc.com/search?q=C97521,LCSC,Grant,,128Mbit SPI 133MHz SOIC-8-208mil NOR FLASH ROHS,C97521
+TP4056-42-ESOP8,Part,1,,0.3438,https://www.lcsc.com/search?q=C16581,LCSC,Grant,,4V~8V Lithium-ion/Polymer 1 1A ESOP-8 Battery Management ROHS,C16581
+ABM8-272-T3,Part,1,,2.10,https://www.lcsc.com/search?q=C20625731,LCSC,Grant,,SMD3225-4P Crystals ROHS,C20625731
 PCB Price,PCB,5,,2.00,,,Grant,,JLCPCB,N/A
 Economic PCBA setup fee,Tax or fee,,,8.00,,,Grant,,JLCPCB,N/A
-PCBA stencil,Part,,,1.50,,,Grant,,JLCPCB,N/A
+PCBA stencil,PCB,,,1.50,,,Grant,,JLCPCB,N/A
 Extended components fee,Tax or fee,,,51.00,,,Grant,,JLCPCB,N/A
-SMT assembly,Part,,,1.13,,,Grant,,JLCPCB,N/A
+SMT assembly,PCB,,,1.13,,,Grant,,JLCPCB,N/A
 Special components fee,Tax or fee,,,0.06,,,Grant,,JLCPCB,N/A
-Nitrogen reflow soldering,Part,,,0.82,,,Grant,,JLCPCB,N/A
-Shipping to India,Shipping,,,13.33,,,Grant,,FedEx ,N/A
+Nitrogen reflow soldering,PCB,,,0.82,,,Grant,,JLCPCB,N/A
+Shipping to India,Shipping,,,13.33,,,Grant,,FedEx,N/A
 Total,,,,91.1787,,,,,,
