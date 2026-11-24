@@ -30,5 +30,8 @@ I wanted to build a devboard to learn more about actual PCB design and electroni
 ## BOM:
 check [BOM.csv](/BOM.csv)
 
+## Credits
+![RPboard-squared](https://github.com/euvalennn/rpboard-squared)
+
 ## License
 [MIT](/LICENSE)
